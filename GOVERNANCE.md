@@ -36,4 +36,32 @@ Project Leads are responsible for the overall direction and health of the projec
 
 ## ⚖️ Decision Making Process
 
-We
+We operate on a model of **"Lazy Consensus."**
+
+### How it works
+You don't need to ask permission for every little thing. If you want to improve something, just do it!
+1.  **Propose a change** (via an Issue or Pull Request).
+2.  **Wait for feedback.**
+3.  **Silence is approval.** If no one objects within a reasonable timeframe (usually 72 hours for bigger changes), it is assumed that the community supports the change.
+
+### Major Changes (RFC Process)
+For significant changes—like altering the database architecture, adding a new blockchain integration, or changing the UI paradigm—we use a **Request for Comments (RFC)** process:
+1.  Open an issue labeled `proposal`.
+2.  Outline the problem and your proposed solution.
+3.  Invite discussion.
+4.  Maintainers will summarize the consensus before moving forward.
+
+### Dispute Resolution
+We aim for consensus. If there is a disagreement:
+1.  We discuss the technical merits and community impact first.
+2.  If a compromise cannot be reached, the **Project Leads** will make the final decision based on the project's Mission and Values.
+
+---
+
+## 🤝 Code of Conduct
+
+Governance is nothing without safety. All collaboration happens under the umbrella of our [Code of Conduct](CODE_OF_CONDUCT.md). We do not tolerate harassment or exclusion.
+
+## 📝 Amending this Document
+
+Governance is a living process. As the community grows, this document may need to evolve. Any changes to `GOVERNANCE.md` must go through the **Major Changes** process described above, ensuring the community agrees on how it wants to be governed.
