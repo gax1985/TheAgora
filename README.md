@@ -54,4 +54,16 @@ git clone [https://github.com/gax1985/Demos.git](https://github.com/gax1985/Demo
 cd Demos
 
 # Build the project
-./gradlew build
+./gradlew 
+
+
+🤝 Join the Community
+You don't need to be a coding wizard to contribute to Demos! We welcome designers, writers, researchers, and anyone passionate about civic tech.
+
+Found a bug? Open an issue.
+
+Have an idea? Start a discussion.
+
+Want to code? Check out our Contribution Guidelines.
+
+Together, let's build a digital agora for the modern world.
