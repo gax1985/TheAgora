@@ -1,7 +1,4 @@
 
-This file is crucial for inclusivity. It explicitly states that *all* types of contributions are valued, not just code, and sets a friendly tone for new comers.
-
-```markdown
 # Contributing to Demos
 
 First off, thank you for considering contributing to Demos! 🎉
